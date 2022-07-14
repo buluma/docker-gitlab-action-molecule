@@ -1,7 +1,7 @@
 FROM fedora:35
 
 LABEL maintainer="Michael Buluma <me@buluma.co.ke>"
-LABEL build_date="2022-05-13"
+LABEL build_date="2022-07-14"
 
 WORKDIR /github/workspace
 
